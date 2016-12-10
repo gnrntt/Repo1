@@ -1,0 +1,6 @@
+seq=""
+for bp in "ACTGCGTTTAC":
+seq= seq+dna_complement[bp]
+print(seq)
+print(bp
+
